@@ -1,0 +1,8 @@
+__pycache__
+.idx
+.vscode
+.venv
+*.env
+*.key
+*.asc
+*.pem
